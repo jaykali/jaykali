@@ -4,8 +4,9 @@
 </p>
 <br>
 ## I'm a Caring Mohter, Fearless Warrior, Monster Killer, Cybercecurity Teacher!
-- 🔭 I’m currently working for my [website][website]!
-- 🌱 I’m currently learning everything 🤣.
-- 🥅 2020 Goals: Teach more on cybersecurity.
-- ⚡ Fun fact: Kali & Kali Linux are not same.
+ - 🔭 I’m currently working in Goldman Sachs as a Software Developer
+  - 🌱 I’m currently learning Machine Learning and Big Data
+  - 💬 Ask me about multiplayer FPS gaming, chess and Tintin comics
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: My name is an anagram of "I Play Data"
 
