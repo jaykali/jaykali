@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kali!](https://www.kalilinux.in) 👋
-<center>
+
 <img src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali.gif" width="260px" hight="346px">
-</center>
+
 ## I'm a Caring Mohter, Fearless Warrior, Monster Killer, Cybercecurity Teacher!
  - 🔭 I’m currently working on my [Website](https://www.kalilinux.in)
   - 🌱 I’m currently learning Everything.
