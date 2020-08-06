@@ -23,6 +23,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Configure Static IP address in Kali Linux](https://www.kalilinux.in/2020/08/configure-static-ip-address-kali-linux.html)
+- [Top 5 Cricket Betting Applications in 2020](https://www.kalilinux.in/2020/08/top-5-cricket-betting-applications.html)
+- [Installing Windows on Kali Linux](https://www.kalilinux.in/2020/08/installing-windows-on-kali-linux.html)
+- [Funny Linux Commands to Try](https://www.kalilinux.in/2020/07/fun-linux-commands-to-try.html)
+- [How to Hide a Phishing Link](https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html)
 <!-- BLOG-POST-LIST:END -->
 
 
