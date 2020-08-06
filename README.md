@@ -1,4 +1,4 @@
-### HI therer, I'm [Kali] [website]👋
+### HI therer, I'm [Kali][website]👋
 
 ## I'm a Caring Mohter, Fearless Warrior, Monster Killer, Cybercecurity Teacher!
 - 🔭 I’m currently working for my [website][website]!
