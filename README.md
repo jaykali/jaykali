@@ -11,7 +11,7 @@
   - 🥅 2020 Goals: Write lots of Infosec Articles on my [website](https://www.kalilinux.in).
   - ⚡ Fun fact: Kali & Kali Linux are not same, but both belives in Offencive Security.
 
-### <img height="50" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-homura.gif"/> Connect with me:
+### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-homura.gif"/> Connect with me:
 
 [<img align="left" alt="kalilinux.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kalilinuxIn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -21,7 +21,7 @@
 <br />
 ---
 
-### <img height="50" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
+### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Configure Static IP address in Kali Linux](https://www.kalilinux.in/2020/08/configure-static-ip-address-kali-linux.html)
 - [Top 5 Cricket Betting Applications in 2020](https://www.kalilinux.in/2020/08/top-5-cricket-betting-applications.html)
