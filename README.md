@@ -1,6 +1,6 @@
 ### Hi there, I'm [Kali!](https://www.kalilinux.in) 👋
-<img src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali.gif" width="260px" hight="346px" alt="kali" title="kaliLinux">
-<br>
+<img src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali.gif" width="260px" hight="346px">
+
 ## I'm a Caring Mohter, Fearless Warrior, Monster Killer, Cybercecurity Teacher!
  - 🔭 I’m currently working in Goldman Sachs as a Software Developer
   - 🌱 I’m currently learning Machine Learning and Big Data
