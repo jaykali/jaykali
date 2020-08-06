@@ -11,3 +11,19 @@
   - 🥅 2020 Goals: Write mlots of Infosec Articles on my [website](https://www.kalilinux.in).
   - ⚡ Fun fact: Kali & Kali Linux are not same, but both belives in Offencive Security.
 
+### Connect with me:
+
+[<img align="left" alt="kalilinux.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kalilinuxIn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+
+
+
+
+
+
+
+[website]: https://www.kalilinux.in
+[twitter]: https://twitter.com/KaliLinux_in
+[medium]: https://medium.com/@kalilinux.in
