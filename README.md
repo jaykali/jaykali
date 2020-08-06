@@ -1,6 +1,8 @@
 ### Hi there, I'm [Kali!](https://www.kalilinux.in) 👋
 
-<img align="center" img src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali.gif" width="260px" hight="346px">
+<p align="center">
+  <img width="260" height="346" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali.gif">
+</p>
 
 ## I'm a Caring Mohter, Fearless Warrior, Monster Killer, Cybercecurity Teacher!
  - 🔭 I’m currently working on my [Website](https://www.kalilinux.in)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
