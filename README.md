@@ -1,4 +1,4 @@
-### HI therer, I'm [Kali] (https://anuraghazra.github.io)👋
+### Hi there, I'm [Kali!](https://www.kalilinux.in) 👋
 
 ## I'm a Caring Mohter, Fearless Warrior, Monster Killer, Cybercecurity Teacher!
 - 🔭 I’m currently working for my [website][website]!
