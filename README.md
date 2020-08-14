@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Security & Online Cricket Betting](https://www.kalilinux.in/2020/08/cyber-security-online-cricket-betting.html)
 - [Fluxion -- Crack WiFi Passwords in Minutes](https://www.kalilinux.in/2020/07/fluxion-kali-linux-crack-wifi.html)
 - [How to Enable root User Account in Kali Linux 2020](https://www.kalilinux.in/2020/08/how-to-enable-root-user-account-in-kali-linux.html)
 - [How to Configure Static IP address in Kali Linux](https://www.kalilinux.in/2020/08/configure-static-ip-address-kali-linux.html)
 - [Top 5 Cricket Betting Applications in 2020](https://www.kalilinux.in/2020/08/top-5-cricket-betting-applications.html)
-- [Installing Windows on Kali Linux](https://www.kalilinux.in/2020/08/installing-windows-on-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 
