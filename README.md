@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bash vs ZSH in Kali Linux](https://www.kalilinux.in/2020/08/bash-zsh-in-kali.html)
 - [Install Kali Linux 2020.3 on Windows Easily in 3 Minutes Using WLS2 & Win-Kex](https://www.kalilinux.in/2020/08/install-kali-linux-on-windows-gui-win-kex.html)
 - [Kali Linux 2020.3 With Major Changes | Bash is No More ?](https://www.kalilinux.in/2020/05/kali-linux-2020-update.html)
 - [How to Manage Big Passwordlists](https://www.kalilinux.in/2020/08/how-to-manage-big-passwordlists.html)
 - [Cyber Security & Online Cricket Betting](https://www.kalilinux.in/2020/08/cyber-security-online-cricket-betting.html)
-- [Fluxion -- Crack WiFi Passwords in Minutes](https://www.kalilinux.in/2020/07/fluxion-kali-linux-crack-wifi.html)
 <!-- BLOG-POST-LIST:END -->
 
 
