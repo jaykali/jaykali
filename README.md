@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kali Linux Looks Like Mac](https://www.kalilinux.in/2020/09/kali-linux-looks-like-mac.html)
 - [Everything you need to know about responsible gambling](https://www.kalilinux.in/2020/09/responsible-gambling.html)
 - [Masscan -- 1000 Times Faster Than NMAP](https://www.kalilinux.in/2020/09/masscan-1000-times-faster-than-nmap.html)
 - [The Top 9 Books & PDFs Every Kali Linux User Must Read](https://www.kalilinux.in/2020/09/kali-linux-pdf.html)
 - [Legion -- Test Web Application Vulnerability Automatically](https://www.kalilinux.in/2020/09/legion-kali-linux.html)
-- [Control Kali Linux PC From any Mobile or Tablet](https://www.kalilinux.in/2020/08/control-kali-linux-from-mobile.html)
 <!-- BLOG-POST-LIST:END -->
 
 
