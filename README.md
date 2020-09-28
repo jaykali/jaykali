@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fern -- The WiFi Cracker](https://www.kalilinux.in/2020/09/fern-wifi-cracker.html)
 - [Metasploitable 2 Installing on Kali Linux](https://www.kalilinux.in/2020/09/metasploitable-2-installing-on-kali.html)
 - [Spyic Review: The Best Phone Keylogger](https://www.kalilinux.in/2020/09/spyic-review-best-phone-keylogger.html)
 - [Win-KeX 2.0 -- Kali Linux and Windows 10 in Same Desktop](https://www.kalilinux.in/2020/09/winkex2-0-update.html)
 - [Kali Linux Looks Like Mac](https://www.kalilinux.in/2020/09/kali-linux-looks-like-mac.html)
-- [Everything you need to know about responsible gambling](https://www.kalilinux.in/2020/09/responsible-gambling.html)
 <!-- BLOG-POST-LIST:END -->
 
 
