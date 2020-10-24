@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install VirtualBox in Kali Linux](https://www.kalilinux.in/2020/10/install-virtualbox-in-kali-linux.html)
 - [Cybersecurity in online casino that you need to care](https://www.kalilinux.in/2020/10/cybersecurity-in-online-casino-that-you.html)
 - [GHunt -- Know Everything From Email](https://www.kalilinux.in/2020/10/ghunt-tutorial-kali.html)
 - [Lynis -- Security Audit on Unix or Linux System](https://www.kalilinux.in/2020/10/lynis-kali-linux-2020.html)
 - [HTTrack -- Make any Website Offline](https://www.kalilinux.in/2020/10/httrack-kali-linux.html)
-- [WebScarab -- Web Application Analysis Tool](https://www.kalilinux.in/2020/10/webscarab.html)
 <!-- BLOG-POST-LIST:END -->
 
 
