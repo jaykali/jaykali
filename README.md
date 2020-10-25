@@ -30,7 +30,11 @@
 - [HTTrack -- Make any Website Offline](https://www.kalilinux.in/2020/10/httrack-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jaykali/count.svg" />
+</p>
 
 
 
