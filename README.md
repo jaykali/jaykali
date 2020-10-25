@@ -32,7 +32,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/jaykali/count.svg" />
 </p>
 
