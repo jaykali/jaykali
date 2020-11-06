@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run C and C++ programs in Kali Linux](https://www.kalilinux.in/2020/10/how-to-run-c-programs-in-kali-linux.html)
 - [Install Nessus on Kali Linux](https://www.kalilinux.in/2020/10/install-nessus-on-kali-linux.html)
 - [How to Run Windows Application and Games on Kali Linux](https://www.kalilinux.in/2020/10/how-to-run-windows-application-and.html)
 - [Install VirtualBox in Kali Linux](https://www.kalilinux.in/2020/10/install-virtualbox-in-kali-linux.html)
 - [Cybersecurity in online casino that you need to care](https://www.kalilinux.in/2020/10/cybersecurity-in-online-casino-that-you.html)
-- [GHunt -- Know Everything From Email](https://www.kalilinux.in/2020/10/ghunt-tutorial-kali.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
