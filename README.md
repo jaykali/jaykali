@@ -23,7 +23,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Laptop For Kali Linux -- Check it Before Buy](https://www.kalilinux.in/2020/11/best-laptop-.html)
+- [Best Laptop For Kali Linux -- Check it Before Buy](https://www.kalilinux.in/2020/11/best-laptop-for-kali-linux.html)
 - [How to run C and C++ programs in Kali Linux](https://www.kalilinux.in/2020/10/how-to-run-c-programs-in-kali-linux.html)
 - [Install Nessus on Kali Linux](https://www.kalilinux.in/2020/10/install-nessus-on-kali-linux.html)
 - [How to Run Windows Application and Games on Kali Linux](https://www.kalilinux.in/2020/10/how-to-run-windows-application-and.html)
