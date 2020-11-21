@@ -26,7 +26,7 @@
 - [Kali Linux 2020.4 With Major Changes | Last Update of Kali in 2020](https://www.kalilinux.in/2020/05/kali-linux-2020-update.html)
 - [TempoMail -- Command Line Temporary Email in Linux](https://www.kalilinux.in/2020/11/tempomail-kali-linux-cli-temp-mail.html)
 - [Finding Exploits for any Vulnerability](https://www.kalilinux.in/2020/11/exploits-vulnerability.html)
-- [Best Laptop For Kali Linux -- Check it Before Buy](https://www.kalilinux.in/2020/11/best-laptop-for-kali-linux.html)
+- [14 Best Laptop For Kali Linux in October 2020 -- Check This Before Buy](https://www.kalilinux.in/2020/11/best-laptop-for-kali-linux.html)
 - [How to run C and C++ programs in Kali Linux](https://www.kalilinux.in/2020/10/how-to-run-c-programs-in-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
