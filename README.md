@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NIPE -- Fully Anonymize Total Kali Linux System](https://www.kalilinux.in/2020/11/nipe-fully-anonymize-total-kali-linux.html)
+- [Offline Gaming V/s Online Gaming Cybersecurity Point of View](https://www.kalilinux.in/2020/12/online-gaming-vs-offline-gaing-cybersecurity.html)
 - [The Cybersecurity Behind Live Casinos](https://www.kalilinux.in/2020/11/the-cybersecurity-behind-live-casinos.html)
 - [Install and Use Vega on Kali Linux 2020 -- Web penetration Testing](https://www.kalilinux.in/2020/11/install-and-use-vega-on-kali-linux-2020.html)
 - [WPScan -- Find Vulnerabilities in WordPress Websites on Kali Linux](https://www.kalilinux.in/2020/11/wpscan-kali-linux-wordpress.html)
-- [Kali Linux 2020.4 With Major Changes | Last Update of Kali in 2020](https://www.kalilinux.in/2020/05/kali-linux-2020-update.html)
-- [TempoMail -- Command Line Temporary Email in Linux](https://www.kalilinux.in/2020/11/tempomail-kali-linux-cli-temp-mail.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
