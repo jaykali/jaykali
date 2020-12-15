@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to host my website on Linux VPS Server](https://www.kalilinux.in/2020/12/how-to-host-my-website-on-linux-vps.html)
 - [Andriller -- Forensic Investigation of Android Phone on Kali Linux](https://www.kalilinux.in/2020/12/andriller-forensic-of-android-on-kali-linux.html)
 - [WiFi-Pumpkin 3 -- Dangerous Access Point](https://www.kalilinux.in/2020/12/wifi-pumpkin-3-dengerous-access-point.html)
 - [NIPE -- Fully Anonymize Total Kali Linux System](https://www.kalilinux.in/2020/11/nipe-fully-anonymize-total-kali-linux.html)
 - [Offline Gaming V/s Online Gaming Cybersecurity Point of View](https://www.kalilinux.in/2020/12/online-gaming-vs-offline-gaing-cybersecurity.html)
-- [The Cybersecurity Behind Live Casinos](https://www.kalilinux.in/2020/11/the-cybersecurity-behind-live-casinos.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
