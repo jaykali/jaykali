@@ -4,7 +4,7 @@
   <img width="260" height="346" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali.gif">
 </p>
 
-## I'm a Caring Mother, Fearless Warrior, Monster Killer, Cybercecurity Teacher!
+## I'm a Caring Mother, Fearless Warrior, Monster Killer, Cybersecurity Teacher!
  - 🔭 I’m currently working on my [Website](https://www.kalilinux.in)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   - 🌱 I’m currently learning Everything.
   - 💬 Ask me about Cybersecurity.
