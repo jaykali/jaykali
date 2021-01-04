@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing Font and Language Problems in Kali Linux](https://www.kalilinux.in/2021/01/fixing-font-and-language-problems-in.html)
 - [Scalpel -- Recover Permanently Deleted Files](https://www.kalilinux.in/2021/01/scalpel-recover-permanently-deleted-files-linux.html)
 - [Beware of Cyber-Attacks: Protect Small Business with 7 Proven Cybersecurity Strategies](https://www.kalilinux.in/2020/12/beware-of-cyber-attacks-protect-small-business.html)
 - [Unicornscan -- Total Guide for Beginner](https://www.kalilinux.in/2020/12/unicornscan-kali-linux.html)
 - [SSLyze -- Find Mis-Configuration on SSL](https://www.kalilinux.in/2020/12/sslyze-kali-linux.html)
-- [14 Best Laptops For Kali Linux & Cyber Security -- Check This Before Buy](https://www.kalilinux.in/2020/11/best-laptop-for-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
