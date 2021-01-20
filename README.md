@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best WiFi Adapter For Kali Linux -- Monitor Mode and Packet Injection](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
 - [How to Install Telegam and Signal on Linux](https://www.kalilinux.in/2021/01/how-to-install-telegam-and-signal-on-linux.html)
 - [Wapiti -- Automated Vulnerability Scanner](https://www.kalilinux.in/2021/01/wapiti-tutorial.html)
 - [Netcat -- Total Guide Beginner to Advance](https://www.kalilinux.in/2021/01/netcat-linux-tutorial.html)
 - [SpiderFoot -- Most Complete OSINT Reconnaissance Tool](https://www.kalilinux.in/2021/01/spiderfoot.html)
-- [Fixing Font and Language Problems in Kali Linux](https://www.kalilinux.in/2021/01/fixing-font-and-language-problems-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
