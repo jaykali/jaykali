@@ -25,7 +25,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Install and Configure BloodHound on Kali Linux](https://www.kalilinux.in/2021/01/install-bloodhound-on-kali-linux.html)
 - [ZAP -- Most Used Web Vulnerability Scanner](https://www.kalilinux.in/2021/01/zap-kali-linux.html)
-- [Best WiFi Adapter For Kali Linux -- Monitor Mode and Packet Injection](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
+- [Best WiFi Adapter For Kali Linux in 2021](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
 - [How to Install Telegam and Signal on Linux](https://www.kalilinux.in/2021/01/how-to-install-telegam-and-signal-on-linux.html)
 - [Wapiti -- Automated Vulnerability Scanner](https://www.kalilinux.in/2021/01/wapiti-tutorial.html)
 <!-- BLOG-POST-LIST:END -->
