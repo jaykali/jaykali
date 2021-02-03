@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zenmap -- Easy GUI version of Nmap](https://www.kalilinux.in/2021/02/zenmap.html)
 - [15 Best Laptops For Kali Linux & Cyber Security -- Check This Before Buy](https://www.kalilinux.in/2021/01/best-laptop-for-kali-linux.html)
 - [SkipFish -- Web Application Scanner](https://www.kalilinux.in/2021/01/sikpfish.html)
 - [How to Own All Git Repositories and SVN Repositories](https://www.kalilinux.in/2021/01/how-to-own-all-git-repositories-and-svn.html)
 - [How to Install and Configure BloodHound on Kali Linux](https://www.kalilinux.in/2021/01/install-bloodhound-on-kali-linux.html)
-- [ZAP -- Most Used Web Vulnerability Scanner](https://www.kalilinux.in/2021/01/zap-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
