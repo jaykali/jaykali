@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zydra -- ZIP Password Cracker](https://www.kalilinux.in/2021/02/crack-password-zip-rar-pdf-using-zydra.html)
 - [Best Etcher alternatives to Create Bootable USB](https://www.kalilinux.in/2021/02/ethcer.html)
 - [Ncrack -- Crack Network Credentials in Minutes](https://www.kalilinux.in/2021/02/ncrack.html)
 - [Zenmap -- Easy GUI version of Nmap](https://www.kalilinux.in/2021/02/zenmap.html)
 - [Best WiFi Adapter For Kali Linux -- Reviewed by Hacker](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
-- [15 Best Laptops For Kali Linux & Cyber Security -- Check This Before Buy](https://www.kalilinux.in/2021/01/best-laptop-for-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
