@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pixie Dust Attack -- Crack Wireless Routers [Easy Guide]](https://www.kalilinux.in/2021/03/pixie-dust.html)
 - [Kali Linux 2021.1 Update is Here !](https://www.kalilinux.in/2021/02/kali-linux-2021-update.html)
 - [How to Install Google Chrome & Chromium on Kali Linux [Official Method]](https://www.kalilinux.in/2021/02/how-to-install-google-chrome-chromium.html)
 - [Scan Web Applications Using Metasploit](https://www.kalilinux.in/2021/02/scan-web-applications-using-metasploit.html)
 - [Zydra -- ZIP Password Cracker](https://www.kalilinux.in/2021/02/crack-password-zip-rar-pdf-using-zydra.html)
-- [Best Etcher alternatives to Create Bootable USB](https://www.kalilinux.in/2021/02/ethcer.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
