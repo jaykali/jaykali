@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AnonX -- Anonymous and Encrypted File Sharing](https://www.kalilinux.in/2021/03/anonx-anonymous-and-encrypted-file-sharing.html)
 - [Acquire RAM for Forensics Testing](https://www.kalilinux.in/2021/03/acquire-ram-for-forensics-testing.html)
 - [Rainbow Tables & Rainbowcrack Cracking Passwords on Kali Linux](https://www.kalilinux.in/2021/03/rainbow-tables-rainbowcrack-kali-linux.html)
 - [Easysploit -- Easy & Automatic Metasploit](https://www.kalilinux.in/2020/08/easysploit.html)
 - [Volatolity -- Digial Forensic Testing of RAM on Kali Linux](https://www.kalilinux.in/2021/03/volatolity-digial-forensic-testing-of.html)
-- [Hping3 -- Network Auditing, DOS and DDOS](https://www.kalilinux.in/2021/03/hping3-kali-linux-dos-ddos-network.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
