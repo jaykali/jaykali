@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Port Forwarding without Router](https://www.kalilinux.in/2021/04/free-port-forwarding-without-router.html)
 - [Install Kali Linux as a Primary OS & BTRFS Install for Snapshot](https://www.kalilinux.in/2021/03/install-kali-linux-btrfs-install.html)
+- [15 Best Laptops For Kali Linux & Cyber Security in 2021 -- Check This Before Buy](https://www.kalilinux.in/2021/01/best-laptop-for-kali-linux.html)
 - [Best WiFi Adapter For Kali Linux -- Reviewed by Hacker](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
 - [AnonX -- Anonymous and Encrypted File Sharing](https://www.kalilinux.in/2021/03/anonx-anonymous-and-encrypted-file-sharing.html)
-- [Acquire RAM for Forensics Testing](https://www.kalilinux.in/2021/03/acquire-ram-for-forensics-testing.html)
-- [Rainbow Tables & Rainbowcrack Cracking Passwords on Kali Linux](https://www.kalilinux.in/2021/03/rainbow-tables-rainbowcrack-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
