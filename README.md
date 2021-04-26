@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Account Hacking  -- The Best 9 Methods](https://www.kalilinux.in/2019/06/hack-facebook-account.html)
 - [How to Install Genymotion Virtual Android on Kali Linux](https://www.kalilinux.in/2021/04/install-genymotion-on-kali-linux.html)
 - [How to Mine Monero on Linux Easily in 5 Minutes](https://www.kalilinux.in/2021/04/how-to-easy-mine-monero-on-linux.html)
 - [Kali Linux Dual Boot on Apple's macOS/OSX](https://www.kalilinux.in/2021/04/kali-linux-dual-boot-on-apples-macososx.html)
 - [Empire -- PowerShell Post-Exploitation Agent](https://www.kalilinux.in/2021/04/empire-powershell-post-exploitation.html)
-- [Installing Kali Linux on Macbook / OSX / macOS](https://www.kalilinux.in/2021/04/install-kali-linux-on-macbook.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
