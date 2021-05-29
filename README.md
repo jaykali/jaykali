@@ -23,11 +23,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WeBaCoo -- Web Backdoor Cookie Script-Kit](https://www.kalilinux.in/2021/05/webacoo-kali-linux.html)
 - [WafW00f -- Web Application Firewall Testing](https://www.kalilinux.in/2021/05/wafwoof-kali-linux.html)
 - [Control other PC by Sending a Single Link](https://www.kalilinux.in/2021/05/control-other-pc-by-sending-single-link.html)
 - [How to Install WordPress on Kali Linux](https://www.kalilinux.in/2021/05/how-to-install-wordpress-on-kali-linux.html)
 - [Best USB WiFi Adapter For Kali Linux 2021 [Updated May]](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
-- [How to Install Docker on Kali Linux](https://www.kalilinux.in/2021/05/how-to-install-docker-on-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
