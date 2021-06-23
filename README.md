@@ -1,4 +1,4 @@
-### Hi there, I'm [Kali!](https://www.kalilinux.in) <img height="50" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
+### Hi there, I'm [Kali!](https://www.kalilinux.in) 
 
 <p align="center">
   <img width="260" height="346" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali.gif">
@@ -9,7 +9,7 @@
   - 🌱 I’m currently learning Everything.
   - 💬 Ask me about Cybersecurity.
   - 🥅 2021 Goals: Write lots of Infosec Articles on my [website](https://www.kalilinux.in).
-  - ⚡ Fun fact: Kali & Kali Linux are not same, but both belives in Offencive Security.
+  - ⚡ Fun fact: Kali & Kali Linux are not same, but both belives in Offencive Security.<img width="50" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-homura.gif"/> Connect with me:
 
