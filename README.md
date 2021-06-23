@@ -18,8 +18,6 @@
 [<img align="left" alt="kalilinuxIn | Medium" width="22px" src="https://raw.githubusercontent.com/jaykali/jaykali/master/github.png" />][github]
 
 <br />
-<br />
-<img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -29,7 +27,7 @@
 - [EyeWitness -- Web Footprints and Enumeration](https://www.kalilinux.in/2021/06/eyewitness-web-footprints-and.html)
 - [Set Default Version of Python : [SOLVED] update-alternatives: error: no alternatives for python3](https://www.kalilinux.in/2021/05/update-alternatives-error-no-alternatives-for-python3.html)
 <!-- BLOG-POST-LIST:END -->
-
+<img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
 <p align="center"> 
   <b>Visitor count</b><br>
