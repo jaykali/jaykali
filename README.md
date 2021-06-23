@@ -1,4 +1,4 @@
-### Hi there, I'm [Kali!](https://www.kalilinux.in) 👋
+### Hi there, I'm [Kali!](https://www.kalilinux.in) <img height="50" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 
 <p align="center">
   <img width="260" height="346" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali.gif">
