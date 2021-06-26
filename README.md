@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install VSCode on Kali Linux](https://www.kalilinux.in/2021/06/how-to-install-vscode-on-kali-linux.html)
 - [How to Locate a Person's Home or Cell Phone Number for Free](https://www.kalilinux.in/2021/06/how-to-locate-persons-home-or-cell.html)
 - [Cadaver - Exploit HTTP PUT Vulnerability](https://www.kalilinux.in/2021/06/cadaver-exploit-http-put-vulnerability-kali-linux.html)
 - [DirSearch -- Rapid Web Path Scanner](https://www.kalilinux.in/2018/12/dirsearch.html)
 - [Ghidra -- Reverse Engineering Tool used by NSA](https://www.kalilinux.in/2021/06/ghidra-reverse-engineering-kali-linux.html)
-- [EyeWitness -- Web Footprints and Enumeration](https://www.kalilinux.in/2021/06/eyewitness-web-footprints-and.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
