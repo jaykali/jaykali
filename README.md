@@ -21,8 +21,8 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OSRFramework -- Open Source Research Framework](https://www.kalilinux.in/2021/06/osrframework.html)
 - [5 Simple Room Rental Agreement Templates You Can't Miss](https://www.kalilinux.in/2021/07/5-simple-room-rental-agreement.html)
-- [OSRFramework -- Open Sorce Research Framework](https://www.kalilinux.in/2021/06/osrframework.html)
 - [How to Install VSCode on Kali Linux](https://www.kalilinux.in/2021/06/how-to-install-vscode-on-kali-linux.html)
 - [How to Locate a Person's Home or Cell Phone Number for Free](https://www.kalilinux.in/2021/06/how-to-locate-persons-home-or-cell.html)
 - [Cadaver - Exploit HTTP PUT Vulnerability](https://www.kalilinux.in/2021/06/cadaver-exploit-http-put-vulnerability-kali-linux.html)
