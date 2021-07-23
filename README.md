@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Check & Remove Pegasus Spyware from Mobile Phone Total Guide](https://www.kalilinux.in/2021/07/pegasus-check-and-remove-from-mobile.html)
+- [How to Check & Remove Pegasus Spyware from Mobile Phone [Total Guide]](https://www.kalilinux.in/2021/07/pegasus-check-and-remove-from-mobile.html)
 - [BED -- Bruteforce Exploit Detector](https://www.kalilinux.in/2021/07/bed-fuzzer-kali-linux.html)
 - [Ghost Framework -- Control Android Devices Remotely](https://www.kalilinux.in/2020/03/control-android-devices-ghost.html)
 - [Black Widow -- Web Ripper Tool](https://www.kalilinux.in/2020/10/black-widow-.html)
