@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twofi -- Create Custom Wordlist From Twitter](https://www.kalilinux.in/2021/07/twofi-custom-wordlist-from-twitter.html)
 - [Maltego -- Powerful OSINT Reconnaissance Framework](https://www.kalilinux.in/2021/07/maltego.html)
 - [How to Check & Remove Pegasus Spyware from Mobile Phone [Total Guide]](https://www.kalilinux.in/2021/07/pegasus-check-and-remove-from-mobile.html)
 - [BED -- Bruteforce Exploit Detector](https://www.kalilinux.in/2021/07/bed-fuzzer-kali-linux.html)
 - [Ghost Framework -- Control Android Devices Remotely](https://www.kalilinux.in/2020/03/control-android-devices-ghost.html)
-- [Black Widow -- Web Ripper Tool](https://www.kalilinux.in/2020/10/black-widow-.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
