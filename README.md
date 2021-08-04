@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ping -- Know the Target (Ping Pong)!](https://www.kalilinux.in/2021/07/ping-.html)
+- [15 Powerful Gadgets For Ethical Hackers | Hardware Tools for Hackers in 2021](https://www.kalilinux.in/2021/06/hardwares-for-hackers.html)
 - [How Online Sports Betting Work in India](https://www.kalilinux.in/2021/08/how-online-sports-betting-work-in-india.html)
 - [Twofi -- Create Custom Wordlist From Twitter](https://www.kalilinux.in/2021/07/twofi-custom-wordlist-from-twitter.html)
 - [Maltego -- Powerful OSINT Reconnaissance Framework](https://www.kalilinux.in/2021/07/maltego.html)
-- [How to Check & Remove Pegasus Spyware from Mobile Phone [Total Guide]](https://www.kalilinux.in/2021/07/pegasus-check-and-remove-from-mobile.html)
-- [BED -- Bruteforce Exploit Detector](https://www.kalilinux.in/2021/07/bed-fuzzer-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
