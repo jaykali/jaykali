@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ping -- Know the Target (Ping Pong)!](https://www.kalilinux.in/2021/07/ping-.html)
+- [Ping -- Know the Target (Ping Pong)!](https://www.kalilinux.in/2021/08/ping.html)
 - [15 Powerful Gadgets For Ethical Hackers | Hardware Tools for Hackers in 2021](https://www.kalilinux.in/2021/06/hardwares-for-hackers.html)
 - [Twofi -- Create Custom Wordlist From Twitter](https://www.kalilinux.in/2021/07/twofi-custom-wordlist-from-twitter.html)
 - [Maltego -- Powerful OSINT Reconnaissance Framework](https://www.kalilinux.in/2021/07/maltego.html)
