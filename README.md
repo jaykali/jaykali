@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basics of Digital Forensics](https://www.kalilinux.in/2021/08/basics-of-digital-forensics.html)
 - [Best USB WiFi Adapter For Kali Linux 2021 [Updated August]](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
 - [Ping -- Know the Target (Ping Pong)!](https://www.kalilinux.in/2021/08/ping.html)
 - [15 Powerful Gadgets For Ethical Hackers | Hardware Tools for Hackers in 2021](https://www.kalilinux.in/2021/06/hardwares-for-hackers.html)
 - [Twofi -- Create Custom Wordlist From Twitter](https://www.kalilinux.in/2021/07/twofi-custom-wordlist-from-twitter.html)
-- [Maltego -- Powerful OSINT Reconnaissance Framework](https://www.kalilinux.in/2021/07/maltego.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
