@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Secure Our Kali Linux System To Ensure Our Protection](https://www.kalilinux.in/2021/08/how-to-secure-our-kali-linux-system.html)
 - [How to change Lock Screen Background on Kali Linux XFCE](https://www.kalilinux.in/2021/08/chnage-login-background-Kali-Linux-XFCE.html)
 - [The Most Used Online Video Chat Applications In 2021?](https://www.kalilinux.in/2021/08/the-most-used-online-video-chat-applications-in-2021.html)
 - [Searching for Rootkits on Kali Linux using Chrootkit & Rkhunter](https://www.kalilinux.in/2021/07/chkrootkit-rkhunter-removes-rootkis-on-linux.html)
 - [How Do I Sign a PDF in Windows 10 for Free](https://www.kalilinux.in/2021/08/how-do-i-sign-pdf-in-windows-10-for-free.html)
-- [Signature Generator Reviews: 10+ Free Email Signature Templates You Can Use](https://www.kalilinux.in/2021/08/signature-generator-reviews-10-free.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
