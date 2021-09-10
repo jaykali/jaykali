@@ -22,10 +22,10 @@
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Stay Anonymous Completely [100% Perfect]](https://www.kalilinux.in/2021/08/how-to-be-complete-anonymous-online.html)
+- [How To Decode VIN Numbers For Vehicle Identification](https://www.kalilinux.in/2021/09/how-to-decode-vin-numbers-for-vehicle.html)
 - [How students can cope with paper on a cybersecurity topic](https://www.kalilinux.in/2021/09/how-students-can-cope-with-paper-on.html)
 - [How To Secure Our Kali Linux System To Ensure Our Protection](https://www.kalilinux.in/2021/08/how-to-secure-our-kali-linux-system.html)
 - [How to change Lock Screen Background on Kali Linux XFCE](https://www.kalilinux.in/2021/08/chnage-login-background-Kali-Linux-XFCE.html)
-- [The Most Used Online Video Chat Applications In 2021?](https://www.kalilinux.in/2021/08/the-most-used-online-video-chat-applications-in-2021.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
