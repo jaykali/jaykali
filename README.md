@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Find Vulnerabilities using NMAP Scripts (NSE)](https://www.kalilinux.in/2021/09/find-vulnerabilities-using-nmap-scripts.html)
 - [How Port Scanning Works ? Port Scanning TCP & UDP Explained](https://www.kalilinux.in/2021/09/port-scanning-TCP-UDP-.html)
 - [Kali Linux 2021.3 Update is Here !](https://www.kalilinux.in/2021/02/kali-linux-2021-update.html)
 - [Amap -- Application Mapping Tool, Banner Grabbing](https://www.kalilinux.in/2021/08/amap-application-mapping-tool.html)
 - [How to Stay Anonymous Completely [100% Perfect]](https://www.kalilinux.in/2021/08/how-to-be-complete-anonymous-online.html)
-- [How To Decode VIN Numbers For Vehicle Identification](https://www.kalilinux.in/2021/09/how-to-decode-vin-numbers-for-vehicle.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
