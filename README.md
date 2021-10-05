@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where to hire react programmer and 3 essential skills to look for](https://www.kalilinux.in/2021/10/where-to-hire-react-programmer-and-3.html)
 - [How to Setup SQLi Penetration Testing Lab on Kali Linux](https://www.kalilinux.in/2021/09/how-to-setup-sql-injection-labs-kali-linux.html)
 - [Hashcat -- Crack Passwords in Minutes](https://www.kalilinux.in/2021/09/hashcat-crack-.html)
 - [How to Install & Use Ngrok on Kali Linux](https://www.kalilinux.in/2021/09/how-to-install-ngrok-on-kali-linux.html)
 - [Find Vulnerabilities using NMAP Scripts (NSE)](https://www.kalilinux.in/2021/09/find-vulnerabilities-using-nmap-scripts.html)
-- [How Port Scanning Works ? Port Scanning TCP & UDP Explained](https://www.kalilinux.in/2021/09/port-scanning-TCP-UDP-.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
