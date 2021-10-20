@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HostHunter -- OSINT Tool for Discovering Hostnames](https://www.kalilinux.in/2021/10/hosthunter-discover-hostnames.html)
 - [8 of the Best Chat Sites for Talking to New People](https://www.kalilinux.in/2021/10/8-of-best-chat-sites-for-talking-to-new.html)
 - [Detect It Easy -- Easily Determine Any File Type](https://www.kalilinux.in/2021/10/detect-it-easy-file-type.html)
 - [Regular Updates and Cleaning Kali Linux System](https://www.kalilinux.in/2021/09/how-to-update-and-clean-Kali-Linux.html)
 - [Best USB WiFi Adapter For Kali Linux 2021 [Updated October]](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
-- [How to Remove Metadata of Files on Kali Linux](https://www.kalilinux.in/2021/09/remove-metadata-of-files.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
