@@ -22,7 +22,7 @@
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [HostHunter -- OSINT Tool for Discovering Hostnames](https://www.kalilinux.in/2021/10/hosthunter-discover-hostnames.html)
-- [8 of the Best Chat Sites for Talking to New People](https://www.kalilinux.in/2021/10/8-of-best-chat-sites-for-talking-to-new.html)
+- [12 Best Anonymous Chat Apps to talk with Strangers (2021)](https://www.kalilinux.in/2021/10/12-best-anonymous-chat-apps-to-talk-with-strangers.html)
 - [Detect It Easy -- Easily Determine Any File Type](https://www.kalilinux.in/2021/10/detect-it-easy-file-type.html)
 - [Regular Updates and Cleaning Kali Linux System](https://www.kalilinux.in/2021/09/how-to-update-and-clean-Kali-Linux.html)
 - [Best USB WiFi Adapter For Kali Linux 2021 [Updated October]](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
