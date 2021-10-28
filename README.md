@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Protecting Our Tesing Web Server on Kali Linux](https://www.kalilinux.in/2021/10/protecting-our-tesing-web-server-on.html)
 - [Sublist3r -- Sub-Domain Enumeration Tool](https://www.kalilinux.in/2021/10/sublist3r-sub-domain-enumeration-tool.html)
 - [HostHunter -- OSINT Tool for Discovering Hostnames](https://www.kalilinux.in/2021/10/hosthunter-discover-hostnames.html)
 - [12 Best Anonymous Chat Apps to talk with Strangers (2021)](https://www.kalilinux.in/2021/10/12-best-anonymous-chat-apps-to-talk-with-strangers.html)
 - [Detect It Easy -- Easily Determine Any File Type](https://www.kalilinux.in/2021/10/detect-it-easy-file-type.html)
-- [Regular Updates and Cleaning Kali Linux System](https://www.kalilinux.in/2021/09/how-to-update-and-clean-Kali-Linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
