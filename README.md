@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Our Tesing Web Server on Kali Linux](https://www.kalilinux.in/2021/10/protecting-our-tesing-web-server-on.html)
+- [Protecting Our Testing Web Server on Kali Linux](https://www.kalilinux.in/2021/10/protecting-our-tesing-web-server-on.html)
 - [Sublist3r -- Sub-Domain Enumeration Tool](https://www.kalilinux.in/2021/10/sublist3r-sub-domain-enumeration-tool.html)
 - [HostHunter -- OSINT Tool for Discovering Hostnames](https://www.kalilinux.in/2021/10/hosthunter-discover-hostnames.html)
 - [12 Best Anonymous Chat Apps to talk with Strangers (2021)](https://www.kalilinux.in/2021/10/12-best-anonymous-chat-apps-to-talk-with-strangers.html)
