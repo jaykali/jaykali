@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Subdomain Takeover Vulnerability in Easy Language](https://www.kalilinux.in/2021/10/what-is-subdomain-takeover.html)
+- [What is Subdomain Takeover Vulnerability in Easy Language](https://www.kalilinux.in/2021/11/what-is-subdomain-takeover-vulnerability.html)
 - [SubFinder -- Discover Hidden Sub-Domains](https://www.kalilinux.in/2021/10/subfinder-discover-hidden-sub-domains.html)
 - [MaskProcessor -- Advanced Password-List for Bruteforce](https://www.kalilinux.in/2021/10/maskprocessor-advanced-password-list-bruteforce.html)
 - [Linux Staff Monitoring](https://www.kalilinux.in/2021/11/linux-staff-monitoring.html)
