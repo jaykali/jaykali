@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SUB404 -- Easily Find Sub-Domain Takeover Vulnerability](https://www.kalilinux.in/2021/10/sub404-easily-find-sub-domain-takeover-vulnerability.html)
 - [What is Subdomain Takeover Vulnerability in Easy Language](https://www.kalilinux.in/2021/11/what-is-subdomain-takeover-vulnerability.html)
 - [SubFinder -- Discover Hidden Sub-Domains](https://www.kalilinux.in/2021/10/subfinder-discover-hidden-sub-domains.html)
 - [MaskProcessor -- Advanced Password-List for Bruteforce](https://www.kalilinux.in/2021/10/maskprocessor-advanced-password-list-bruteforce.html)
 - [Linux Staff Monitoring](https://www.kalilinux.in/2021/11/linux-staff-monitoring.html)
-- [Cybersecurity Trends To Be Aware Of In 2022](https://www.kalilinux.in/2021/11/cybersecurity-trends-to-be-aware-of-in-2022.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
