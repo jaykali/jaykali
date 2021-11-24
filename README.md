@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Begineers Guide of RTL SDR &lpar;Software Defined Radio&rpar; on Kali Linux](https://www.kalilinux.in/2021/11/begineers-guide-of-rtl-sdr.html)
+- [Beginners Guide of RTL SDR &lpar;Software Defined Radio&rpar; on Kali Linux](https://www.kalilinux.in/2021/11/begineers-guide-of-rtl-sdr.html)
 - [[Easy] How to Install Brave Browser on Kali Linux](https://www.kalilinux.in/2021/11/easy-how-to-install-brave-browser-on.html)
 - [SUB404 -- Easily Find Sub-Domain Takeover Vulnerability](https://www.kalilinux.in/2021/10/sub404-easily-find-sub-domain-takeover-vulnerability.html)
 - [What is Subdomain Takeover Vulnerability in Easy Language](https://www.kalilinux.in/2021/11/what-is-subdomain-takeover-vulnerability.html)
