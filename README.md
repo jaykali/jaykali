@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kali Linux 2021.4 Update is Here !](https://www.kalilinux.in/2021/02/kali-linux-2021-update.html)
 - [How to Watch Netflix on Linux?](https://www.kalilinux.in/2021/12/how-to-watch-netflix-on-linux.html)
 - [Playing Games on Kali Linux](https://www.kalilinux.in/2020/06/gaming-in-linux.html)
 - [Amass -- Mapping Attack Surface Automatically](https://www.kalilinux.in/2021/12/amass-mapping-attack-surface.html)
 - [Own Airplane Radar using RTL-SDR on Kali Linux](https://www.kalilinux.in/2021/11/own-airplane-radar-using-rtl-sdr.html)
-- [How to install Arduino Software &lpar;IDE&rpar; on Kali Linux](https://www.kalilinux.in/2021/11/how-to-install-arduino-software-ide-on-Kali-Linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
