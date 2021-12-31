@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install Dropbox on Kali Linux](https://www.kalilinux.in/2022/01/install-dropbox-on-kali-linux.html)
 - [Maryam -- OSINT Fremework for Information Gathering](https://www.kalilinux.in/2021/12/maryam-osint-framework.html)
 - [How to Install Zoom on Kali Linux](https://www.kalilinux.in/2021/12/how-to-install-zoom-on-kali-linux.html)
 - [DIY Steps For Web Application Security Testing And Its Benefits](https://www.kalilinux.in/2021/12/diy-steps-for-web-application-security.html)
 - [Security Issues With IaaS, PaaS, And SaaS Cloud Services: What To Know Before Using Them](https://www.kalilinux.in/2021/12/security-issues-with-iaas-paas-and-saas.html)
-- [GSM Signal Tapping using RTL-SDR](https://www.kalilinux.in/2021/12/mobile-signal-hacking.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
