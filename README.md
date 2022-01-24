@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Foremost -- Recover Permanently Deleted Files Easily on Kali Linux](https://www.kalilinux.in/2022/01/foremost-recover-deleted-data.html)
 - [Volatility Evolved to GUI -- Easy Memory  &lpar;RAM&rpar; Forensics](https://www.kalilinux.in/2021/12/volatility-gui.html)
 - [URLCRAZY -- Detect Domain Variants](https://www.kalilinux.in/2022/01/urlcrazy.html)
 - [Expanding your Nextcloud instance using Linode&#39;s NVMe-backed Block Storage](https://www.kalilinux.in/2022/01/nextcloud-instance-using-linode.html)
 - [Wifite -- Easy &amp; Automated Wireless Auditing](https://www.kalilinux.in/2022/01/wifite.html)
-- [Name That Hash -- Know The Hash](https://www.kalilinux.in/2021/12/name-that-hash-know-hash.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
