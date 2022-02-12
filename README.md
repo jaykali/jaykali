@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Dirbuster -- Directory Buster &amp; Directory Brute-Force](https://www.kalilinux.in/2022/02/dirbuster.html)
+- [Dirbuster -- The Directory Buster](https://www.kalilinux.in/2022/02/dirbuster.html)
 - [DIRB -- Hidden Object Scanner](https://www.kalilinux.in/2022/02/dirb.html)
 - [NIPE -- Fully Anonymize Total Kali Linux System](https://www.kalilinux.in/2022/02/total-anonymous-kali-linux.html)
 - [How to Install KDE Desktop Environment on Kali Linux](https://www.kalilinux.in/2022/01/how-to-install-kde-desktop-environment.html)
