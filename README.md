@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding Exploits for any Vulnerability](https://www.kalilinux.in/2020/11/exploits-vulnerability.html)
 - [15 Best Laptops For Kali Linux &amp; Cyber Security in 2022 -- Check This Before Buy](https://www.kalilinux.in/2021/01/best-laptop-for-kali-linux.html)
 - [Dirbuster -- The Directory Buster](https://www.kalilinux.in/2022/02/dirbuster.html)
 - [DIRB -- Hidden Object Scanner](https://www.kalilinux.in/2022/02/dirb.html)
 - [NIPE -- Fully Anonymize Total Kali Linux System](https://www.kalilinux.in/2022/02/total-anonymous-kali-linux.html)
-- [How to Install KDE Desktop Environment on Kali Linux](https://www.kalilinux.in/2022/01/how-to-install-kde-desktop-environment.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
