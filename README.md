@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Considerations When Building a Future-Proof Security Strategy for Your Business](https://www.kalilinux.in/2022/03/building-future-proof-security.html)
 - [Ghidra -- Reverse Engineering Tool used by NSA](https://www.kalilinux.in/2021/06/ghidra-reverse-engineering-kali-linux.html)
 - [How to Install Java OpenJDK8 on Kali Linux Manually](https://www.kalilinux.in/2022/02/how-to-install-java8.html)
 - [Features and recommendations for sports betting](https://www.kalilinux.in/2022/02/features-and-recommendations-for-sports.html)
 - [Finding Exploits for any Vulnerability](https://www.kalilinux.in/2020/11/exploits-vulnerability.html)
-- [15 Best Laptops For Kali Linux &amp; Cyber Security in 2022 -- Check This Before Buy](https://www.kalilinux.in/2021/01/best-laptop-for-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
