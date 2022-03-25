@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kali Linux System Management](https://www.kalilinux.in/2022/03/kali-linux-system-management.html)
 - [Bash Scripting on Kali Linux](https://www.kalilinux.in/2022/03/bash-scripting-on-kali-linux.html)
 - [Best 15 Gadgets For Ethical Hackers on Amazon 2022](https://www.kalilinux.in/2021/06/hardwares-for-hackers.html)
 - [What is Fuzzing? Why it is Important on Cybersecurity?](https://www.kalilinux.in/2021/06/what-is-fuzzing.html)
 - [How to Remotely Monitor any Android Device](https://www.kalilinux.in/2022/03/control-android-device.html)
-- [Cadaver - Exploit HTTP PUT Vulnerability](https://www.kalilinux.in/2021/06/cadaver-exploit-http-put-vulnerability-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
