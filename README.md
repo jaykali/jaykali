@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Naabu - Simple, Fast and Reliable Port Scanner](https://www.kalilinux.in/2022/04/naabu-port-scanner.html)
 - [Free Port Forwarding without Router](https://www.kalilinux.in/2021/04/free-port-forwarding-without-router.html)
 - [Manage Files using Terminal](https://www.kalilinux.in/2022/04/manage-files-using-terminal.html)
 - [Best USB WiFi Adapter For Kali Linux 2022 [Updated April]](https://www.kalilinux.in/2022/04/wifi-adapter-for-kali-linux.html)
 - [TP-Link AC600/T2U Plus Best Budget WiFi Adapter for Kali Linux ?](https://www.kalilinux.in/2022/03/tplink-ac600-budget-adapter-for-monitor-mode.html)
-- [TP-Link WN722N Version 2/3 Monitor Mode and Packet Injection Support](https://www.kalilinux.in/2022/03/tp-link-wn722n-version-monitor-mode.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
