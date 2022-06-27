@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best USB WiFi Adapter For Kali Linux 2022 [Updated June]](https://www.kalilinux.in/2022/04/wifi-adapter-for-kali-linux.html)
 - [Kali Linux as Full Time OS in our Daily Life -- Installing Office, Media and other](https://www.kalilinux.in/2020/02/kali-in-our-daily-life.html)
 - [Fern -- The WiFi Cracker](https://www.kalilinux.in/2020/09/fern-wifi-cracker.html)
 - [Follina -- Microsoft MSDT Vulnerability](https://www.kalilinux.in/2022/06/follina-microsoft-msdt-vulnerability.html)
 - [How to Install Docker on Kali Linux](https://www.kalilinux.in/2021/05/how-to-install-docker-on-kali-linux.html)
-- [How Port Scanning Works ? Port Scanning TCP &amp; UDP Explained](https://www.kalilinux.in/2021/09/port-scanning-TCP-UDP-.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
