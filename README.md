@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Playing Games on Kali Linux](https://www.kalilinux.in/2020/06/gaming-in-linux.html)
 - [Netcat -- Total Guide Beginner to Advance](https://www.kalilinux.in/2021/01/netcat-linux-tutorial.html)
 - [Acquire RAM for Forensics Testing](https://www.kalilinux.in/2021/03/acquire-ram-for-forensics-testing.html)
 - [Why Do You Need a VPN To Maintain Privacy?](https://www.kalilinux.in/2022/07/why-do-you-need-vpn-to-maintain-privacy.html)
 - [Hping3 -- Network Auditing, DOS and DDOS](https://www.kalilinux.in/2021/03/hping3-kali-linux-dos-ddos-network.html)
-- [Best USB WiFi Adapter For Kali Linux 2022 [Updated June]](https://www.kalilinux.in/2022/04/wifi-adapter-for-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
