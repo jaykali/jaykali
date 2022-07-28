@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lynis -- Security Audit on Unix or Linux System](https://www.kalilinux.in/2020/10/lynis-kali-linux-2020.html)
 - [AnonX -- Anonymous and Encrypted File Sharing](https://www.kalilinux.in/2021/03/anonx-anonymous-and-encrypted-file-sharing.html)
 - [The Complete Guide to Get Personal Loans Right Now](https://www.kalilinux.in/2022/07/guide-to-get-personal-loan.html)
 - [How To Secure Our Kali Linux System To Ensure Our Protection](https://www.kalilinux.in/2021/08/how-to-secure-our-kali-linux-system.html)
 - [Playing Games on Kali Linux](https://www.kalilinux.in/2020/06/gaming-in-linux.html)
-- [Netcat -- Total Guide Beginner to Advance](https://www.kalilinux.in/2021/01/netcat-linux-tutorial.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
