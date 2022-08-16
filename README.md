@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install VSCode on Kali Linux](https://www.kalilinux.in/2021/06/how-to-install-vscode-on-kali-linux.html)
 - [How to Mine DOGE on Linux](https://www.kalilinux.in/2021/05/how-to-mine-DOGE.html)
 - [HTTrack -- Make any Website Offline](https://www.kalilinux.in/2020/10/httrack-kali-linux.html)
 - [MobSF -- Mobile Security Framework on Kali Linux](https://www.kalilinux.in/2020/12/mobile-security-framework-kali-linux.html)
 - [Find Potential Malware on Android Apps](https://www.kalilinux.in/2022/08/find-potential-malware-on-android-apps.html)
-- [Lynis -- Security Audit on Unix or Linux System](https://www.kalilinux.in/2020/10/lynis-kali-linux-2020.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
