@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Fixed] No WiFi Adapter Found on Kali Linux](https://www.kalilinux.in/2020/03/how-to-install-wi-fi-driver-in-kali-linux.html)
 - [Secure GUI VPN for Kali Linux](https://www.kalilinux.in/2022/08/vpn-on-kali.html)
 - [Cybersecurity Risks of Online Betting](https://www.kalilinux.in/2022/08/cybersecurity-risks-of-online-betting.html)
 - [How to Install VSCode on Kali Linux](https://www.kalilinux.in/2021/06/how-to-install-vscode-on-kali-linux.html)
 - [How to Mine DOGE on Linux](https://www.kalilinux.in/2021/05/how-to-mine-DOGE.html)
-- [HTTrack -- Make any Website Offline](https://www.kalilinux.in/2020/10/httrack-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
