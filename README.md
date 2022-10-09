@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best USB WiFi Adapter For Kali Linux 2022 [Updated June]](https://www.kalilinux.in/2022/04/wifi-adapter-for-kali-linux.html)
 - [TempoMail -- Command Line Temporary Email in Linux](https://www.kalilinux.in/2020/11/tempomail-kali-linux-cli-temp-mail.html)
 - [Everything about Cross-Site Scripting &lpar;XSS&rpar;](https://www.kalilinux.in/2021/07/cross-site-scripting-xss.html)
 - [How to Manage Big Passwordlists](https://www.kalilinux.in/2020/08/how-to-manage-big-passwordlists.html)
 - [WeBaCoo -- Web Backdoor Cookie Script-Kit](https://www.kalilinux.in/2021/05/webacoo-kali-linux.html)
-- [WebScarab -- Web Application Analysis Tool](https://www.kalilinux.in/2020/10/webscarab.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
