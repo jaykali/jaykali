@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rainbow Tables &amp; Rainbowcrack Cracking Passwords on Kali Linux](https://www.kalilinux.in/2021/03/rainbow-tables-rainbowcrack-kali-linux.html)
 - [Own Airplane Radar using RTL-SDR on Kali Linux](https://www.kalilinux.in/2021/11/own-airplane-radar-using-rtl-sdr.html)
 - [Beginners Guide of RTL SDR &lpar;Software Defined Radio&rpar; on Kali Linux](https://www.kalilinux.in/2021/11/begineers-guide-of-rtl-sdr.html)
 - [BED -- Bruteforce Exploit Detector](https://www.kalilinux.in/2021/07/bed-fuzzer-kali-linux.html)
 - [What is Fuzzing? Why it is Important on Cybersecurity?](https://www.kalilinux.in/2021/06/what-is-fuzzing.html)
-- [Best USB WiFi Adapter For Kali Linux 2022 [Updated October]](https://www.kalilinux.in/2022/04/wifi-adapter-for-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
