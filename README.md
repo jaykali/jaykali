@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Most Secure Decentralized Cloud Drive on Linux](https://www.kalilinux.in/2022/05/internxt-decentralized-cloud-server.html)
 - [Manage Files using Terminal](https://www.kalilinux.in/2022/04/manage-files-using-terminal.html)
 - [Kali Linux File System](https://www.kalilinux.in/2022/05/kali-linux-file-system.html)
 - [Kali Linux - Basic Terminal Uses](https://www.kalilinux.in/2022/03/kali-linux-basic-terminal-uses.html)
 - [Kali Linux System Management](https://www.kalilinux.in/2022/03/kali-linux-system-management.html)
-- [What is Kali Linux ?](https://www.kalilinux.in/2021/12/what-is-Kali-Linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
