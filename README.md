@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scalpel -- Recover Permanently Deleted Files](https://www.kalilinux.in/2021/01/scalpel-recover-permanently-deleted-files-linux.html)
 - [20 Reasons You Need to Stop Stressing About SQL Injection](https://www.kalilinux.in/2022/12/reasons-stop-stressing-SQL-injection.html)
 - [How to Install &amp; Use Ngrok on Kali Linux](https://www.kalilinux.in/2021/09/how-to-install-ngrok-on-kali-linux.html)
 - [Kali Linux Looks Like Mac](https://www.kalilinux.in/2020/09/kali-linux-looks-like-mac.html)
 - [Most Secure Decentralized Cloud Drive on Linux](https://www.kalilinux.in/2022/05/internxt-decentralized-cloud-server.html)
-- [Manage Files using Terminal](https://www.kalilinux.in/2022/04/manage-files-using-terminal.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
