@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AnonX -- Anonymous and Encrypted File Sharing](https://www.kalilinux.in/2021/03/anonx-anonymous-and-encrypted-file-sharing.html)
 - [How to Install Golang in Linux [New 2023 Method]](https://www.kalilinux.in/2020/06/how-to-install-golang-in-kali-linux-new.html)
 - [Hashcat -- Crack Passwords in Minutes](https://www.kalilinux.in/2021/09/hashcat-crack-.html)
 - [GSM Signal Tapping using RTL-SDR](https://www.kalilinux.in/2021/12/mobile-signal-hacking.html)
 - [Is your IoT device insecure? 10 most harmful cybersecurity threats to IoT devices](https://www.kalilinux.in/2023/01/iot-devices-security-problems.html)
-- [Masscan -- 1000 Times Faster Than NMAP](https://www.kalilinux.in/2020/09/masscan-1000-times-faster-than-nmap.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
