@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kali Linux: The Must-Have Operating System for Cybersecurity Experts](https://www.kalilinux.in/2023/01/must-have-operating-system-for-hackers.html)
+- [Kali Linux -- The Must-Have Operating System for Cybersecurity Experts](https://www.kalilinux.in/2023/01/must-have-operating-system-for-hackers.html)
 - [AnonX -- Anonymous and Encrypted File Sharing](https://www.kalilinux.in/2021/03/anonx-anonymous-and-encrypted-file-sharing.html)
 - [How to Install Golang in Linux [New 2023 Method]](https://www.kalilinux.in/2020/06/how-to-install-golang-in-kali-linux-new.html)
 - [Hashcat -- Crack Passwords in Minutes](https://www.kalilinux.in/2021/09/hashcat-crack-.html)
