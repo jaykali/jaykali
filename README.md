@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cadaver - Exploit HTTP PUT Vulnerability](https://www.kalilinux.in/2021/06/cadaver-exploit-http-put-vulnerability-kali-linux.html)
 - [ZAP -- Most Used Web Vulnerability Scanner](https://www.kalilinux.in/2021/01/zap-kali-linux.html)
 - [Ping -- Know the Target &lpar;Ping Pong&rpar;!](https://www.kalilinux.in/2021/08/ping.html)
 - [Airgeddon -- Easy Wireless Network Security Auditor](https://www.kalilinux.in/2021/03/airgeddon-wifi-crack-kalilinux.html)
 - [Unicornscan -- Total Guide for Beginner](https://www.kalilinux.in/2020/12/unicornscan-kali-linux.html)
-- [Kali Linux -- The Must-Have Operating System for Cybersecurity Experts](https://www.kalilinux.in/2023/01/must-have-operating-system-for-hackers.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
