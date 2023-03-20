@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [TP-Link WN722N Version 2/3 Monitor Mode and Packet Injection Support](https://www.kalilinux.in/2022/03/tp-link-wn722n-version-monitor-mode.html)
+- [TP-Link WN722N V2/3 Monitor Mode &amp; Packet Injection Support](https://www.kalilinux.in/2023/03/tp-link-wn722n-version-monitor-mode.html)
 - [Maryam -- Best Info Gathering Framework Ever?](https://www.kalilinux.in/2023/03/maryam.html)
 - [DireSearch -- Easy Scanner for Juicy Files](https://www.kalilinux.in/2023/03/dirsearch.html)
 - [How to improve your digital document security](https://www.kalilinux.in/2023/03/how-to-improve-your-digital-document-security.html)
