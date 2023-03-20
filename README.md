@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TP-Link WN722N Version 2/3 Monitor Mode and Packet Injection Support](https://www.kalilinux.in/2022/03/tp-link-wn722n-version-monitor-mode.html)
 - [Maryam -- Best Info Gathering Framework Ever?](https://www.kalilinux.in/2023/03/maryam.html)
 - [DireSearch -- Easy Scanner for Juicy Files](https://www.kalilinux.in/2023/03/dirsearch.html)
 - [How to improve your digital document security](https://www.kalilinux.in/2023/03/how-to-improve-your-digital-document-security.html)
 - [Best Ways to Customize Look &amp; Feel of Kali Linux](https://www.kalilinux.in/2020/04/customize-kali-linux-2020.html)
-- [Autopsy -- Digital Forensic Toolkit](https://www.kalilinux.in/2020/04/autopsy-kali-linux-2020.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
