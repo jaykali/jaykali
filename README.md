@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basics of Digital Forensics](https://www.kalilinux.in/2021/08/basics-of-digital-forensics.html)
 - [How to Stay Anonymous Completely [100% Perfect]](https://www.kalilinux.in/2021/08/how-to-be-complete-anonymous-online.html)
 - [Zenmap - GUI of Nmap](https://www.kalilinux.in/2023/04/zenmap.html)
 - [How to Remove Metadata of Files on Kali Linux](https://www.kalilinux.in/2021/09/remove-metadata-of-files.html)
 - [How to Install Java OpenJDK8 on Kali Linux Manually](https://www.kalilinux.in/2022/02/how-to-install-java8.html)
-- [Exploit Any Vulnerability](https://www.kalilinux.in/2023/03/exploit-any-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
