@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easily Setup SQL Injection Testing Lab on Kali Linux](https://www.kalilinux.in/2023/05/sql-injection-testing-lab.html)
 - [Amap - Gather Info in Easy Way](https://www.kalilinux.in/2023/04/amap.html)
 - [Best Budget WiFi Adapter for Wireless Testing on Kali Linux](https://www.kalilinux.in/2023/04/best-budget-wifi-adapter-for-kali-linux.html)
 - [Basics of Digital Forensics](https://www.kalilinux.in/2021/08/basics-of-digital-forensics.html)
 - [How to Stay Anonymous Completely [100% Perfect]](https://www.kalilinux.in/2021/08/how-to-be-complete-anonymous-online.html)
-- [Zenmap - GUI of Nmap](https://www.kalilinux.in/2023/04/zenmap.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
