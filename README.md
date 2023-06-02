@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WafW00f -- Web Application Firewall Testing](https://www.kalilinux.in/2021/05/wafwoof-kali-linux.html)
 - [Mostbet Apps India Review - Bonuses | Register | Games](https://www.kalilinux.in/2023/06/mostbet-apps-india-review.html)
 - [Lynis -- Security Audit on Unix or Linux System](https://www.kalilinux.in/2020/10/lynis-kali-linux-2020.html)
 - [How Progressive Slots Look Like In The Future](https://www.kalilinux.in/2023/05/progressive-slots-looks-in-thefuture.html)
 - [[Easy] How to Install Brave Browser on Kali Linux](https://www.kalilinux.in/2021/11/easy-how-to-install-brave-browser-on.html)
-- [DNSX -- Run Multiple DNS Queries](https://www.kalilinux.in/2022/04/dnsx-run-multiple-dns-queries.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
