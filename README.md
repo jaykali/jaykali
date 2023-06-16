@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wapiti -- Automated Vulnerability Scanner](https://www.kalilinux.in/2021/01/wapiti-tutorial.html)
 - [Detect It Easy -- Easily Determine Any File Type](https://www.kalilinux.in/2021/10/detect-it-easy-file-type.html)
 - [SUB404 -- Easily Find Sub-Domain Takeover Vulnerability](https://www.kalilinux.in/2021/10/sub404-easily-find-sub-domain-takeover-vulnerability.html)
 - [Cybersecurity Measures for Online Casino Safety](https://www.kalilinux.in/2023/06/cybersecurity-measures-for-online-casino.html)
 - [Who is the King of Cricket in the World at Present 2023?](https://www.kalilinux.in/2023/06/who-is-king-of-cricket-in-world-at.html)
-- [WafW00f -- Web Application Firewall Testing](https://www.kalilinux.in/2021/05/wafwoof-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
