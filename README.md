@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Subdomain Takeover Vulnerability in Easy Language](https://www.kalilinux.in/2021/11/what-is-subdomain-takeover-vulnerability.html)
 - [The Fusion of Technology and Trading: Empowering Individuals in the Digital Age](https://www.kalilinux.in/2023/07/the-fusion-of-technology-and-trading.html)
 - [How to change Lock Screen Background on Kali Linux XFCE](https://www.kalilinux.in/2021/08/chnage-login-background-Kali-Linux-XFCE.html)
 - [Canarytokens -- Danger For Attackers](https://www.kalilinux.in/2019/05/canarytokens.html)
 - [SSLyze -- Find Mis-Configuration on SSL](https://www.kalilinux.in/2020/12/sslyze-kali-linux.html)
-- [Find Vulnerabilities using NMAP Scripts &lpar;NSE&rpar;](https://www.kalilinux.in/2021/09/find-vulnerabilities-using-nmap-scripts.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
