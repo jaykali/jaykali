@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install VirtualBox in Kali Linux](https://www.kalilinux.in/2020/10/install-virtualbox-in-kali-linux.html)
 - [How to install Arduino Software &lpar;IDE&rpar; on Kali Linux](https://www.kalilinux.in/2021/11/how-to-install-arduino-software-ide-on-Kali-Linux.html)
 - [Best 15 Gadgets For Ethical Hackers on Amazon 2023](https://www.kalilinux.in/2021/06/hardwares-for-hackers.html)
 - [Playing Games on Kali Linux](https://www.kalilinux.in/2020/06/gaming-in-linux.html)
 - [Ncrack -- Crack Network Credentials in Minutes](https://www.kalilinux.in/2021/02/ncrack.html)
-- [How To Secure Our Kali Linux System To Ensure Our Protection](https://www.kalilinux.in/2021/08/how-to-secure-our-kali-linux-system.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
