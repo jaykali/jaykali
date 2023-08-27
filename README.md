@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Install VirtualBox in Kali Linux](https://www.kalilinux.in/2020/10/install-virtualbox-in-kali-linux.html)
+- [Install VirtualBox on Kali Linux](https://www.kalilinux.in/2020/10/install-virtualbox-in-kali-linux.html)
 - [How to install Arduino Software &lpar;IDE&rpar; on Kali Linux](https://www.kalilinux.in/2021/11/how-to-install-arduino-software-ide-on-Kali-Linux.html)
 - [Best 15 Gadgets For Ethical Hackers on Amazon 2023](https://www.kalilinux.in/2021/06/hardwares-for-hackers.html)
 - [Playing Games on Kali Linux](https://www.kalilinux.in/2020/06/gaming-in-linux.html)
