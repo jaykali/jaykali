@@ -21,7 +21,7 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best USB WiFi Adapter For Kali Linux 2023 [Updated September]](https://www.kalilinux.in/2020/07/wifi-adapter-kali-linux-2020.html)
+- [Best USB WiFi Adapter For Kali Linux 2023 [Updated August]](https://www.kalilinux.in/2022/04/wifi-adapter-for-kali-linux.html)
 - [Baji Mobile App - download and installation instructions for Android and iOS](https://www.kalilinux.in/2023/09/baji-mobile-app.html)
 - [Amap -- Application Mapping Tool, Banner Grabbing](https://www.kalilinux.in/2021/08/amap-application-mapping-tool.html)
 - [Basics of Bash Scripting on Kali Linux](https://www.kalilinux.in/2022/03/bash-scripting-on-kali-linux.html)
