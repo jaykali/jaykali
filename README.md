@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Fixed] No WiFi Adapter Found on Kali Linux](https://www.kalilinux.in/2020/03/how-to-install-wi-fi-driver-in-kali-linux.html)
 - [Right way to record and share our Terminal sessions](https://www.kalilinux.in/2021/07/asciinema.html)
 - [Facebook Account Hacking  -- The Best 9 Methods](https://www.kalilinux.in/2019/06/hack-facebook-account.html)
 - [Best USB WiFi Adapter For Kali Linux 2023 [Updated August]](https://www.kalilinux.in/2022/04/wifi-adapter-for-kali-linux.html)
 - [Baji Mobile App - download and installation instructions for Android and iOS](https://www.kalilinux.in/2023/09/baji-mobile-app.html)
-- [Amap -- Application Mapping Tool, Banner Grabbing](https://www.kalilinux.in/2021/08/amap-application-mapping-tool.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
