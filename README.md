@@ -22,7 +22,7 @@
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Secure GUI VPN for Kali Linux](https://www.kalilinux.in/2022/08/vpn-on-kali.html)
-- [Kali Linux Looks Like Mac](https://www.kalilinux.in/2020/09/kali-linux-looks-like-mac.html)
+- [Transforming Kali Linux into macOS](https://www.kalilinux.in/2020/09/kali-linux-looks-like-mac.html)
 - [[Fixed] No WiFi Adapter Found on Kali Linux](https://www.kalilinux.in/2020/03/how-to-install-wi-fi-driver-in-kali-linux.html)
 - [Right way to record and share our Terminal sessions](https://www.kalilinux.in/2021/07/asciinema.html)
 - [Facebook Account Hacking  -- The Best 9 Methods](https://www.kalilinux.in/2019/06/hack-facebook-account.html)
