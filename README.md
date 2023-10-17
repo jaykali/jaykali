@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sublist3r -- Sub-Domain Enumeration Tool](https://www.kalilinux.in/2021/10/sublist3r-sub-domain-enumeration-tool.html)
 - [Basic Networking Part 6 - What is OSI Model?](https://www.kalilinux.in/2022/05/osi-model.html)
 - [Basic Networking Part 5 -- What is Computer Networking?](https://www.kalilinux.in/2022/05/what-is-computer-networking.html)
 - [Basic Networking Part 4 -- What is Port?](https://www.kalilinux.in/2022/05/what-is-port.html)
 - [Basic Networking Part 3 -- What is IP Address?](https://www.kalilinux.in/2022/05/what-is-ip-address.html)
-- [Basic Networking Part 2 -- What Is Data Packets?](https://www.kalilinux.in/2022/05/what-is-data-packets.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
