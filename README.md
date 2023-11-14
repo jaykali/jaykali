@@ -22,7 +22,7 @@
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Install Telegram and Signal on Kali Linux](https://www.kalilinux.in/2021/01/how-to-install-telegam-and-signal-on-linux.html)
-- [MostPlay App: Free Download, APK Overview](https://www.kalilinux.in/2023/11/mostplay-app-free-download-apk-overview.html)
+- [MostPlay App: Free Download, APK Overview](https://www.kalilinux.in/2023/11/mostplay.html)
 - [SubFinder -- Discover Hidden Sub-Domains](https://www.kalilinux.in/2021/10/subfinder-discover-hidden-sub-domains.html)
 - [Ghidra -- Reverse Engineering Tool used by NSA](https://www.kalilinux.in/2021/06/ghidra-reverse-engineering-kali-linux.html)
 - [Volatolity -- Digial Forensic Testing of RAM on Kali Linux](https://www.kalilinux.in/2021/03/volatolity-digial-forensic-testing-of.html)
