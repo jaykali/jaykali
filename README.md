@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dirbuster -- The Directory Buster](https://www.kalilinux.in/2022/02/dirbuster.html)
 - [Fixing Font and Language Problems in Kali Linux](https://www.kalilinux.in/2021/01/fixing-font-and-language-problems-in.html)
 - [An Exciting Betting Experience with Pin up](https://www.kalilinux.in/2023/11/pin-up.html)
 - [How to Install Telegram and Signal on Kali Linux](https://www.kalilinux.in/2021/01/how-to-install-telegam-and-signal-on-linux.html)
 - [MostPlay App: Free Download, APK Overview](https://www.kalilinux.in/2023/11/mostplay.html)
-- [SubFinder -- Discover Hidden Sub-Domains](https://www.kalilinux.in/2021/10/subfinder-discover-hidden-sub-domains.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
