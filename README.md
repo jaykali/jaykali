@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginners Guide of RTL SDR &lpar;Software Defined Radio&rpar; on Kali Linux](https://www.kalilinux.in/2021/11/begineers-guide-of-rtl-sdr.html)
 - [URLCRAZY -- Detect Domain Variants](https://www.kalilinux.in/2022/01/urlcrazy.html)
 - [How to run C and C++ programs in Kali Linux](https://www.kalilinux.in/2020/10/how-to-run-c-programs-in-kali-linux.html)
 - [Kali Linux System Management](https://www.kalilinux.in/2022/03/kali-linux-system-management.html)
 - [Find Vulnerabilities using NMAP Scripts &lpar;NSE&rpar;](https://www.kalilinux.in/2021/09/find-vulnerabilities-using-nmap-scripts.html)
-- [How to Run Windows Application and Games on Kali Linux](https://www.kalilinux.in/2020/10/how-to-run-windows-application-and.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
