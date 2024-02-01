@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kali Linux - Basic Terminal Uses](https://www.kalilinux.in/2022/03/kali-linux-basic-terminal-uses.html)
 - [NIPE -- Fully Anonymize Total Kali Linux System](https://www.kalilinux.in/2022/02/total-anonymous-kali-linux.html)
 - [GSM Signal Tapping using RTL-SDR](https://www.kalilinux.in/2021/12/mobile-signal-hacking.html)
 - [Beginners Guide of RTL SDR &lpar;Software Defined Radio&rpar; on Kali Linux](https://www.kalilinux.in/2021/11/begineers-guide-of-rtl-sdr.html)
 - [Diving Deeper into the Mostbet Experience: A Detailed Review of Gaming, Transactions, and User Interface in Pakistan](https://www.kalilinux.in/2024/01/mostbet-review.html)
-- [URLCRAZY -- Detect Domain Variants](https://www.kalilinux.in/2022/01/urlcrazy.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
