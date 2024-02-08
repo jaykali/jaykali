@@ -24,8 +24,8 @@
 - [Manage Files using Terminal](https://www.kalilinux.in/2022/04/manage-files-using-terminal.html)
 - [Kali Linux File System](https://www.kalilinux.in/2022/05/kali-linux-file-system.html)
 - [Kali Linux - Basic Terminal Uses](https://www.kalilinux.in/2022/03/kali-linux-basic-terminal-uses.html)
+- [Winning with 1Win App: A Stellar Bet in the Indian Online Gaming Arena](https://www.kalilinux.in/2024/02/1win.html)
 - [NIPE -- Fully Anonymize Total Kali Linux System](https://www.kalilinux.in/2022/02/total-anonymous-kali-linux.html)
-- [GSM Signal Tapping using RTL-SDR](https://www.kalilinux.in/2021/12/mobile-signal-hacking.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
