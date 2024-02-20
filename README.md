@@ -22,7 +22,7 @@
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [HTTrack -- Make any Website Offline](https://www.kalilinux.in/2020/10/httrack-kali-linux.html)
-- [Manage Files using Terminal](https://www.kalilinux.in/2022/04/manage-files-using-terminal.html)
+- [How to Manage Files with a Terminal](https://www.kalilinux.in/2022/04/manage-files-using-terminal.html)
 - [Kali Linux File System](https://www.kalilinux.in/2022/05/kali-linux-file-system.html)
 - [Kali Linux - Basic Terminal Uses](https://www.kalilinux.in/2022/03/kali-linux-basic-terminal-uses.html)
 - [Winning with 1Win App: A Stellar Bet in the Indian Online Gaming Arena](https://www.kalilinux.in/2024/02/1win.html)
