@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Airgeddon -- Easy Wireless Network Security Auditor](https://www.kalilinux.in/2021/03/airgeddon-wifi-crack-kalilinux.html)
 - [Installing GoPhish on Kali Linux for Phishing Campaigns](https://www.kalilinux.in/2024/05/gophish.html)
 - [Maryam -- OSINT Fremework for Information Gathering](https://www.kalilinux.in/2021/12/maryam-osint-framework.html)
 - [AngryOxide -- Easiest Way to Crack WiFi](https://www.kalilinux.in/2024/05/crack-wifi-angryoxide.html)
 - [Unlocking the Slot Machine: Reels, Paylines, Symbols &amp; Bonuses](https://www.kalilinux.in/2024/04/Pirates Plenty-The-Sunken-Treasure.html)
-- [What Cybersecurity Experts Do with a suspicious E-Mail?](https://www.kalilinux.in/2024/04/email-forensics.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
