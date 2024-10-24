@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kali Linux Laptop Guide 2024: Lightweight, Fast, and Ready for Security Tasks](https://www.kalilinux.in/2024/10/kali-linux-laptop.html)
 - [Wapiti -- Automated Vulnerability Scanner](https://www.kalilinux.in/2021/01/wapiti-tutorial.html)
 - [AnonX -- Anonymous and Encrypted File Sharing](https://www.kalilinux.in/2021/03/anonx-anonymous-and-encrypted-file-sharing.html)
 - [Ashok in Action -- Elevate Recon Skills](https://www.kalilinux.in/2024/08/ashok.html)
 - [MaskProcessor -- Advanced Password-List for Bruteforce](https://www.kalilinux.in/2021/10/maskprocessor-advanced-password-list-bruteforce.html)
-- [How to Install &amp; Use Ngrok on Kali Linux](https://www.kalilinux.in/2021/09/how-to-install-ngrok-on-kali-linux.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
