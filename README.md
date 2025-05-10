@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DMARC Record Explained: Strengthen Your Email Authentication And Deliverability Quickly](https://www.kalilinux.in/2025/05/DMARC-Record Explained.html)
 - [SSLyze -- Find Mis-Configuration on SSL](https://www.kalilinux.in/2020/12/sslyze-kali-linux.html)
 - [AutoRecon -- Best Tool for Bug Bounty &amp; CTF](https://www.kalilinux.in/2025/03/autorecon.html)
 - [Best USB WiFi Adapter For Kali Linux 2025 [Updated March]](https://www.kalilinux.in/2025/03/wifi-adapter-for-kali-linux.html)
 - [🛠️ Hack Smarter! Install DeepSeek AI on Kali Linux in 2 commands! [No GPU]](https://www.kalilinux.in/2025/03/deepseek.html)
-- [Amap - Gather Info in Easy Way](https://www.kalilinux.in/2023/04/amap.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
