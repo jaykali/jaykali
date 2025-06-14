@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Novels That Offer Peace After Long Days](https://kalilinux.in/__trashed-2/)
-- [Install VirtualBox on Kali Linux](https://kalilinux.in/virtualbox-on-kali-linux/)
-- [DMARC Record Explained: Strengthen Your Email Authentication And Deliverability Quickly](https://kalilinux.in/dmarc-record-explained-strengthen-your-email-authentication-and-deliverability-quickly/)
-- [SSLyze — Find Mis-Configuration on SSL](https://kalilinux.in/sslyze/)
-- [AutoRecon — Best Tool for Bug Bounty &amp; CTF](https://kalilinux.in/autorecon/)
+- [Install VirtualBox on Kali Linux](https://kalilinux.in/2025/05/install-virtualbox-on-kali-linux.html)
+- [DMARC Record Explained: Strengthen Your Email Authentication And Deliverability Quickly](https://kalilinux.in/2025/05/dmarc-record-explained-strengthen-your-email-authentication-and-deliverability-quickly.html)
+- [SSLyze — Find Mis-Configuration on SSL](https://kalilinux.in/2025/05/sslyze-find-mis-configuration-on-ssl.html)
+- [AutoRecon — Best Tool for Bug Bounty &amp; CTF](https://kalilinux.in/2025/04/autorecon-best-tool-for-bug-bounty-ctf.html)
+- [Best USB WiFi Adapter For Kali Linux 2025 [Updated March]](https://kalilinux.in/2025/03/best-usb-wifi-adapter-for-kali-linux-2025-updated-march.html)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
