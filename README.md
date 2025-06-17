@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Install VirtualBox on Kali Linux](https://kalilinux.in/install-virtualbox-on-kali-linux/)
 - [DMARC Record Explained: Strengthen Your Email Authentication And Deliverability Quickly](https://kalilinux.in/dmarc-record-explained-strengthen-your-email-authentication-and-deliverability-quickly/)
-- [SSLyze — Find Mis-Configuration on SSL](https://kalilinux.in/sslyze-find-mis-configuration-on-ssl/)
-- [AutoRecon — Best Tool for Bug Bounty &amp; CTF](https://kalilinux.in/autorecon-best-tool-for-bug-bounty-ctf/)
+- [SSLyze — Find Mis-Configuration on SSL](https://kalilinux.in/sslyze/)
+- [AutoRecon — Best Tool for Bug Bounty &amp; CTF](https://kalilinux.in/autorecon/)
 - [Best USB WiFi Adapter For Kali Linux 2025 [Updated March]](https://kalilinux.in/best-usb-wifi-adapter-for-kali-linux-2025-updated-march/)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
