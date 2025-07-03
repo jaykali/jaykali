@@ -22,7 +22,7 @@
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Install VirtualBox on Kali Linux](https://www.kalilinux.in/install-virtualbox-on-kali-linux/)
-- [DMARC Record Explained: Strengthen Your Email Authentication And Deliverability Quickly](https://www.kalilinux.in/dmarc-record-explained-strengthen-your-email-authentication-and-deliverability-quickly/)
+- [DMARC Record Explained: Strengthen Your Email Authentication And Deliverability Quickly](https://www.kalilinux.in/dmarc-record/)
 - [SSLyze — Find Mis-Configuration on SSL](https://www.kalilinux.in/sslyze/)
 - [AutoRecon — Best Tool for Bug Bounty &amp; CTF](https://www.kalilinux.in/autorecon/)
 - [Best USB WiFi Adapter For Kali Linux 2025 [Updated March]](https://www.kalilinux.in/best-usb-wifi-adapter-for-kali-linux-2025-updated-march/)
