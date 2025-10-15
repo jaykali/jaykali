@@ -34,6 +34,7 @@
   <img src="https://profile-counter.glitch.me/jaykali/count.svg" />
 </p>
 
+[![An image of @jaykali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaykali)](https://holopin.io/@jaykali)
 
 
 [website]: https://www.kalilinux.in
