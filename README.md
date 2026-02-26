@@ -8,7 +8,7 @@
  - 🔭 I’m currently working on my [Website](https://www.kalilinux.in)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   - 🌱 I’m currently learning Everything.
   - 💬 Ask me about Cybersecurity.
-  - 🥅 2025 Goals: Write lots of Infosec Articles on my [website](https://www.kalilinux.in).
+  - 🥅 2026 Goals: Not working on my [website](https://www.kalilinux.in), trying to find inner peace.
   - ⚡ Fun fact: Kali & Kali Linux are not same, but both belives in Offencive Security.
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-homura.gif"/> Connect with me:
