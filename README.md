@@ -21,11 +21,11 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-sayaka.gif"/> 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [LBD — The Load Balancer Detector](https://www.kalilinux.in/lbd-the-load-balancer-detector/)
-- [AutoRecon — Best Tool for Bug Bounty &amp; CTF](https://www.kalilinux.in/autorecon/)
-- [Best USB WiFi Adapter For Kali Linux 2025 [Updated September]](https://www.kalilinux.in/best-usb-wifi-adapter-for-kali-linux/)
-- [Right way to record and share our Terminal sessions](https://www.kalilinux.in/record-and-share-terminal/)
-- [Dmitry — The Deep Magic](https://www.kalilinux.in/dmitry-the-deep-magic/)
+- [LBD — The Load Balancer Detector](https://www.kalilinux.in/lbd-the-load-balancer-detector/?utm_source=rss&utm_medium=rss&utm_campaign=lbd-the-load-balancer-detector)
+- [AutoRecon — Best Tool for Bug Bounty &amp; CTF](https://www.kalilinux.in/autorecon/?utm_source=rss&utm_medium=rss&utm_campaign=autorecon)
+- [Best USB WiFi Adapter For Kali Linux 2025 [Updated September]](https://www.kalilinux.in/best-usb-wifi-adapter-for-kali-linux/?utm_source=rss&utm_medium=rss&utm_campaign=best-usb-wifi-adapter-for-kali-linux)
+- [Right way to record and share our Terminal sessions](https://www.kalilinux.in/record-and-share-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=record-and-share-terminal)
+- [Dmitry — The Deep Magic](https://www.kalilinux.in/dmitry-the-deep-magic/?utm_source=rss&utm_medium=rss&utm_campaign=dmitry-the-deep-magic)
 <!-- BLOG-POST-LIST:END -->
 <img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
